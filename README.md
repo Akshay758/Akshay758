@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔹 I’m currently working on:<br>I’m currently focusing on improving my skills in data analytics and machine learning while pursuing a Data Science course. I’m strengthening my knowledge in tools like Python, MS Excel, and Power BI through practice and coursework.<br><br>🔹 I’m looking to collaborate on:<br>I’m looking to collaborate on data analytics or machine learning projects where I can gain hands-on experience working with real-world datasets and contribute to data analysis and visualization.<br><br>🔹 I’m looking for help with:<br>I’m looking for guidance and mentorship in applying machine learning and deep learning techniques to real-world business problems and improving my practical implementation skills.<br><br>🔹 I’m currently learning:<br>I’m currently learning Python for data analysis, machine learning algorithms, and deep learning concepts. I’m also improving my skills in Power BI and data visualization.<br><br>🔹 Ask me about:<br>Ask me about data analysis, Excel dashboards, Power BI visualizations, and the basics of machine learning and data science.<br><br>🔹 Fun fact:<br>I enjoy exploring datasets and finding patterns in data. Turning raw data into meaningful insights is something I find very interesting.
+## Hi, I'm Akshay 👋
+
+I am an aspiring Data Scientist currently pursuing a Data Science course and developing strong foundations in data analytics and machine learning. I am passionate about working with data to uncover insights, solve real-world problems, and support data-driven decision making.
+
+I have hands-on experience with tools such as Python, MS Excel, and Power BI, and I am continuously expanding my knowledge in machine learning and deep learning.
 
 
 ## 🌐 Socials:
