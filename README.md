@@ -1,11 +1,11 @@
 ## Hi, I'm Akshay 👋
 
-#I am an aspiring Data Scientist currently pursuing a Data Science course and building a strong foundation in data analytics and machine learning. I am passionate about working with data to extract meaningful insights and support data-driven decision making.
+I am an aspiring Data Scientist currently pursuing a Data Science course and building a strong foundation in data analytics and machine learning. I am passionate about working with data to extract meaningful insights and support data-driven decision making.
 
-#* Currently learning **Machine Learning and Deep Learning**
-#* Skilled in **Python, MS Excel, and Power BI**
-#* Interested in **Data Analysis, Data Visualization, and Predictive Modeling**
-#* Open to collaborating on **Data Analytics and Machine Learning projects**
+* Currently learning **Machine Learning and Deep Learning**
+* Skilled in **Python, SQL, MS Excel, and Power BI**
+* Interested in **Data Analysis, Data Visualization, and Predictive Modeling**
+* Open to collaborating on **Data Analytics and Machine Learning projects**
 
 
 
