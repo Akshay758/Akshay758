@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Akshay%20VP&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI/ML%20Engineer%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Akshay%20VP&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A;Building+Intelligent+ML+%26+DL+Solutions+%F0%9F%A4%96;Passionate+about+Data-Driven+Decision+Making+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Building+Intelligent+AI+%26+ML+Systems+%F0%9F%A4%96;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A;Passionate+about+Data-Driven+Decision+Making+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,13 +22,13 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Akshay VP**, an aspiring Data Scientist from **Kerala, India** 🇮🇳, currently building a strong foundation in data analytics and machine learning. I am deeply passionate about working with data to extract meaningful insights and support data-driven decision making.
+Hi there! I'm **Akshay VP**, an aspiring **AI & ML Engineer** and Data Scientist from **Kerala, India** 🇮🇳, currently building a strong foundation in data analytics, machine learning, and artificial intelligence. I am deeply passionate about working with data to extract meaningful insights and building intelligent systems that support data-driven decision making.
 
-I am currently pursuing a **Data Science course** where I am sharpening my skills in Python, SQL, and advanced machine learning techniques. My goal is to become a professional Data Scientist who builds intelligent systems that solve real-world problems.
+I am currently pursuing a **Data Science course** where I am sharpening my skills in Python, SQL, and advanced machine learning techniques. My goal is to become a professional AI & ML Engineer who designs and deploys intelligent systems that solve real-world problems at scale.
 
 I enjoy exploring datasets, building predictive models, and creating visual dashboards that turn complex data into clear, actionable stories. When I am not coding, I am reading about the latest advancements in AI and deep learning to stay at the cutting edge of the field.
 
-I am actively looking for opportunities to **collaborate on data analytics and machine learning projects** — so feel free to reach out!
+I am actively looking for opportunities to **collaborate on AI, data analytics, and machine learning projects** — so feel free to reach out!
 
 > *"In God we trust; all others must bring data."* — W. Edwards Deming
 
@@ -38,8 +38,8 @@ I am actively looking for opportunities to **collaborate on data analytics and m
 
 - 🔭 **Currently Building:** End-to-end ML pipelines and data analytics projects
 - 🌱 **Currently Learning:** Advanced Deep Learning — CNNs, RNNs, Transformers & MLOps
-- 🧠 **Exploring:** Natural Language Processing & Computer Vision
-- 💡 **Goal:** Transition into a professional Data Scientist / ML Engineer role
+- 🧠 **Exploring:** Natural Language Processing, Computer Vision & Generative AI
+- 💡 **Goal:** Become a professional AI & ML Engineer solving real-world problems
 - 📫 **Reach Me At:** [akshayvp5001@gmail.com](mailto:akshayvp5001@gmail.com)
 
 ---
@@ -52,7 +52,7 @@ I am actively looking for opportunities to **collaborate on data analytics and m
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🤖 Machine Learning & Deep Learning
+### 🤖 AI, Machine Learning & Deep Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
@@ -87,9 +87,9 @@ I am actively looking for opportunities to **collaborate on data analytics and m
 
 | Domain | Skills |
 |:---|:---|
+| 🤖 **AI & ML Engineering** | Model Design, Training, Evaluation, Hyperparameter Tuning |
 | 📊 **Data Analytics** | Exploratory Data Analysis, Statistical Analysis, Feature Engineering |
-| 🤖 **Machine Learning** | Regression, Classification, Clustering, Model Evaluation & Tuning |
-| 🧠 **Deep Learning** | ANNs, CNNs, RNNs, Transfer Learning |
+| 🧠 **Deep Learning** | ANNs, CNNs, RNNs, LSTMs, Transfer Learning, Transformers |
 | 📉 **Data Visualization** | Power BI Dashboards, Matplotlib, Seaborn, Interactive Charts |
 | 🗄️ **Data Engineering** | SQL Queries, Data Cleaning, ETL Pipelines |
 | 📋 **Reporting & Insights** | Business Intelligence, KPI Tracking, MS Excel Analytics |
@@ -126,39 +126,76 @@ I am actively looking for opportunities to **collaborate on data analytics and m
 
 ---
 
-## 📚 Learning Roadmap
+## 🗺️ Learning Roadmap
 
-```
-Data Science Journey — 2024 to 2025
-│
-├── ✅  Python for Data Science
-├── ✅  SQL & Database Management
-├── ✅  Data Analysis with Pandas & NumPy
-├── ✅  Data Visualization — Matplotlib, Seaborn, Power BI
-├── ✅  Machine Learning with Scikit-Learn
-├── 🔄  Deep Learning — TensorFlow & PyTorch       ← Currently Here
-├── 🔄  Natural Language Processing (NLP)
-├── ⏳  Computer Vision
-├── ⏳  MLOps & Model Deployment
-└── ⏳  Big Data & Cloud Platforms — AWS / GCP
-```
+<div align="center">
+
+| # | Topic | Status | Level |
+|:---:|:---|:---:|:---:|
+| 01 | Python for Data Science | ✅ Completed | ██████████ 100% |
+| 02 | SQL & Database Management | ✅ Completed | ██████████ 100% |
+| 03 | Data Analysis — Pandas & NumPy | ✅ Completed | ██████████ 100% |
+| 04 | Data Visualization — Power BI, Matplotlib | ✅ Completed | ████████░░ 80% |
+| 05 | Machine Learning — Scikit-Learn | ✅ Completed | ████████░░ 80% |
+| 06 | Deep Learning — TensorFlow & PyTorch | 🔄 In Progress | █████░░░░░ 50% |
+| 07 | Natural Language Processing | 🔄 In Progress | ███░░░░░░░ 30% |
+| 08 | Computer Vision & Image Recognition | ⏳ Upcoming | ░░░░░░░░░░ 0% |
+| 09 | Generative AI & LLMs | ⏳ Upcoming | ░░░░░░░░░░ 0% |
+| 10 | MLOps & Model Deployment | ⏳ Upcoming | ░░░░░░░░░░ 0% |
+| 11 | Big Data & Cloud Platforms — AWS / GCP | ⏳ Upcoming | ░░░░░░░░░░ 0% |
+
+</div>
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Open to Collaboration
 
-I am actively looking for opportunities to work with others on exciting data projects. Whether it is a simple analysis or a complex machine learning pipeline, I am always up for a challenge!
+<div align="center">
 
-- 📊 **Data Analytics Projects** — Business intelligence, EDA, and reporting dashboards
-- 🤖 **ML / DL Projects** — Predictive modeling, classification, and deep learning
-- 🌐 **Open Source Contributions** — Data science tools, libraries, and utilities
-- 💡 **Hackathons & Competitions** — Kaggle challenges and data competitions
+*I believe great things happen when curious minds work together.*
+*Whether you are a fellow learner, a developer, or a data professional — let's build something impactful.*
+
+</div>
+
+<br/>
+
+### 🧩 Areas I'd Love to Collaborate On
+
+| 🔬 Domain | 💡 What We Can Build Together |
+|:---|:---|
+| 📊 **Data Analytics & BI** | Business dashboards, KPI reports, EDA notebooks, data storytelling projects |
+| 🤖 **AI & ML Engineering** | Predictive models, classification systems, recommendation engines, AI pipelines |
+| 🧠 **Deep Learning & NLP** | Sentiment analysis, text classification, image recognition, chatbot prototypes |
+| 🌐 **Open Source** | Data science utilities, ML tools, Python libraries, Streamlit apps |
+| 🏆 **Competitions & Hackathons** | Kaggle competitions, data challenges, AI hackathons |
+
+<br/>
+
+### 💬 What I Bring to the Table
+
+- 🔍 Strong analytical thinking and problem-solving mindset
+- 🐍 Solid Python skills with hands-on experience in ML & data libraries
+- 📊 Ability to communicate data insights clearly through visualization
+- 🤝 Collaborative, curious, and always eager to learn from others
+- 🚀 High motivation to deliver results and grow through real projects
+
+<br/>
+
+<div align="center">
+
+**Let's connect and turn ideas into intelligent solutions!**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-vp-636628270)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayvp5001@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📬 Connect With Me
+### 📬 Find Me Everywhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-vp-636628270)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/4_k_s_h_a_y_)
@@ -170,6 +207,6 @@ I am actively looking for opportunities to work with others on exciting data pro
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" />
 
-*✨ "Data is not just numbers — it's the language of the future." ✨*
+*✨ "The goal is to turn data into information, and information into insight." — Carly Fiorina ✨*
 
 </div>
