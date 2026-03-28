@@ -107,7 +107,8 @@ I am actively looking for opportunities to **collaborate on AI, data analytics, 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay758&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
 &nbsp;
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364"/>username=Akshay758&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?
+username=Akshay758&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
 
 </div>
 
