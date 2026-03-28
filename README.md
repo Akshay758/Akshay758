@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Akshay VP**, an aspiring **AI & ML Engineer** and Data Scientist from **Kerala, India** 🇮🇳, currently building a strong foundation in data analytics, machine learning, and artificial intelligence. I am deeply passionate about working with data to extract meaningful insights and building intelligent systems that support data-driven decision making.
+Hi there! I'm **Akshay VP**, an aspiring **Data Scientist** and Data Analyst from **Kerala, India** 🇮🇳, currently building a strong foundation in data analytics, machine learning, and artificial intelligence. I am deeply passionate about working with data to extract meaningful insights and building intelligent systems that support data-driven decision making.
 
 I am currently pursuing a **Data Science course** where I am sharpening my skills in Python, SQL, and advanced machine learning techniques. My goal is to become a professional AI & ML Engineer who designs and deploys intelligent systems that solve real-world problems at scale.
 
