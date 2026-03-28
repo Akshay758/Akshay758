@@ -103,14 +103,7 @@ I am actively looking for opportunities to **collaborate on AI, data analytics, 
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-</img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay758&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=Akshay758&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
-
-</div>
 
 <br/>
 
