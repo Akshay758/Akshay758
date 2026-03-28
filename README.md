@@ -101,33 +101,26 @@ I am actively looking for opportunities to **collaborate on data analytics and m
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay758&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay758&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Akshay758&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
+<img width="68%" src="https://streak-stats.demolab.com?user=Akshay758&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📅 GitHub Activity Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akshay758&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4"/>
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Akshay758&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay758&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
