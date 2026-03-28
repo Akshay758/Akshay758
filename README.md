@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Akshay%20VP&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Analytics%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Akshay%20VP&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI/ML%20Engineer%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A;Building+Intelligent+ML+%26+DL+Solutions+%F0%9F%A4%96;Passionate+about+Data-Driven+Decision+Making+%F0%9F%9A%80" alt="Typing SVG" />
