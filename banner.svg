@@ -60,7 +60,7 @@
   <text class="title" x="450" y="105" text-anchor="middle" filter="url(#glow)">Akshay VP</text>
 
   <!-- Subtitle -->
-  <text class="subtitle" x="450" y="145" text-anchor="middle"> &amp; Data Scientist  ·  Data Analyst  ·  Analytics Enthusiast</text>
+  <text class="subtitle" x="450" y="145" text-anchor="middle">  Data Scientist  ·  Data Analyst  ·  Analytics Enthusiast</text>
 
   <!-- Bottom accent line -->
   <rect x="0" y="197" width="900" height="3" fill="#00d4ff" opacity="0.4"/>
