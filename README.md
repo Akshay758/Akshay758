@@ -137,7 +137,7 @@ I am actively looking for opportunities to **collaborate on AI, data analytics, 
 | 04 | Data Visualization — Power BI, Matplotlib | ✅ Completed |█████████░ 95% |
 | 05 | Machine Learning — Scikit-Learn | ✅ Completed | ████████░░ 90% |
 | 06 | Deep Learning — TensorFlow & PyTorch | 🔄 In Progress | ████████░░ 90% |
-| 07 | Natural Language Processing | 🔄 In Progress | ██████░░░░ 60% |
+| 07 | Natural Language Processing | 🔄 In Progress | ████████░░ 80% |
 | 08 | Computer Vision & Image Recognition | ⏳ Upcoming | ░░░░░░░░░░ 0% |
 | 09 | Generative AI & LLMs | ⏳ Upcoming | ░░░░░░░░░░ 0% |
 | 10 | MLOps & Model Deployment | ⏳ Upcoming | ░░░░░░░░░░ 0% |
