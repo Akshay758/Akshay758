@@ -109,7 +109,9 @@ I am actively looking for opportunities to *collaborate on AI, data analytics, a
 
 <div align="center">
 
-<img width="68%" src="https://streak-stats.demolab.com?user=Akshay758&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay758&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay758&theme=tokyonight&hide_border=true"/>
 
 </div>
 
