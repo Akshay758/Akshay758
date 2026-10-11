@@ -110,6 +110,16 @@ I am actively looking for opportunities to collaborate on AI, data analytics, an
 
 ---
 
+## 📅 GitHub Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay758&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
 ## 🗺️ Learning Roadmap
 
 <div align="center">
