@@ -110,11 +110,11 @@ I am actively looking for opportunities to collaborate on AI, data analytics, an
 
 ---
 
-## 📅 GitHub Activity Graph
+## 📅 GitHub Contribution Stats
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay758&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Akshay758&theme=dark&background=0d1117&border=00d4ff&fire=00d4ff&sideLabels=true" alt="GitHub Streak" />
 
 </div>
 
