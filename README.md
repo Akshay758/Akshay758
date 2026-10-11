@@ -51,6 +51,15 @@ I am actively looking for opportunities to collaborate on AI, data analytics, an
 
 ## 🛠️ Tech Stack & Tools
 
+### ✨ Generative AI & LLMs
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logo=databricks&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF7F50?style=for-the-badge&logo=pandoc&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-555555?style=for-the-badge&logo=chroma&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-4B0082?style=for-the-badge&logo=ai&logoColor=white)
+
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -98,20 +107,6 @@ I am actively looking for opportunities to collaborate on AI, data analytics, an
 | 📉 Data Visualization | Power BI Dashboards, Matplotlib, Seaborn, Interactive Charts |
 | 🗄️ Data Engineering | SQL Queries, Data Cleaning, ETL Pipelines |
 | 📋 Reporting & Insights | Business Intelligence, KPI Tracking, MS Excel Analytics |
-
----
-
-
-
----
-
-## 📅 GitHub Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay758&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
-
-</div>
 
 ---
 
